@@ -1,3 +1,3 @@
 # Que miras
 Hecho por naxo
-# Juega aquí: https://nachi2267.github.io/pichurrinacraft
+# Juega aquí: https://nachi2267.github.io/PichurrinaCraft
